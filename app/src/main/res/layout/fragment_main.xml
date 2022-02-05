@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.muhmmadnabil.simplebankingapp.view.fragments.main.MainFragment">
+    tools:context="com.muhmmadnabil.basicbankingapp.view.fragments.main.MainFragment">
 
 
     <Button

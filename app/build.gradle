@@ -8,7 +8,7 @@ android {
     compileSdkVersion 31
 
     defaultConfig {
-        applicationId "com.example.roomapp"
+        applicationId "com.muhmmadnabil.basicbankingapp"
         minSdkVersion 24
         targetSdkVersion 31
         versionCode 1
