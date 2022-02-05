@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simple Banking App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_transactions">Money transaction</string>
+    <string name="btn_details">Account Details</string>
+    <string name="tv_user_name">User</string>
+    <string name="tv_user_email">user@mail.com</string>
+    <string name="iv_user_description">userImage</string>
+    <string name="tv_user_currency">50$</string>
+    <string name="no_transactions">No transactions</string>
+    <string name="money_transaction">Money Transaction</string>
+    <string name="money">Money</string>
+    <string name="e_mail">E-mail</string>
+    <string name="name">Name</string>
+    <string name="update">Update</string>
+    <string name="previous_transaction">Previous transaction</string>
+    <string name="from_money_to">From Money To</string>
+    <string name="display_all_users">Display all users</string>
+    <string name="transfer_money">Transfer Money</string>
+    <string name="user_image">userImage</string>
+</resources>
